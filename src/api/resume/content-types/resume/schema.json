@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resumes",
+  "info": {
+    "singularName": "resume",
+    "pluralName": "resumes",
+    "displayName": "Resume",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "bio": {
+      "type": "richtext"
+    },
+    "summary": {
+      "type": "richtext"
+    },
+    "skills": {
+      "type": "richtext"
+    },
+    "tools": {
+      "type": "richtext"
+    },
+    "education": {
+      "type": "richtext"
+    },
+    "experience": {
+      "type": "richtext"
+    },
+    "course": {
+      "type": "richtext"
+    }
+  }
+}

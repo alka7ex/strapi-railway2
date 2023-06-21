@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_category1_test_categories",
+  "info": {
+    "displayName": "test category",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "tewst": {
+      "type": "string"
+    }
+  }
+}
